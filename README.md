@@ -1,6 +1,6 @@
 # MIST-Group-5-Project-2
 # Team Members: 
-1. Zhen, Christina - 811674601
+1. Zhen, Christina - 811674601 - https://github.com/cz67968/MIST-Group-5-Project-2/blob/main/README.md
 2. Arfath, Rushil - 811460339
 3.  Fontoura, Gabriel - 811794390
 4.  Snow, Luke - 811958066
