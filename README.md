@@ -16,4 +16,9 @@ How have MTA subway and bus ridership recovered compared to pre-pandemic levels?
 Which transportation mode has had the slowest recovery post-COVID, and how does it compare to others over time?
 
 Using Tableau for analysis, we created trendline visualizations comparing each mode’s annual recovery as a percentage of its pre-pandemic baseline. Findings show that while Bridges and Tunnels quickly surpassed pre-2020 levels, modes such as Access-A-Ride and the Staten Island Railway remain significantly below full recovery. These results emphasize the need for informed transit policy, equitable investment, and targeted support for underserved communities.
+# Analysis 1:
+This heat map visualizes average MTA ridership by day of the week across all transportation modes. It reveals that Tuesday through Thursday consistently see the highest ridership, especially for subways and buses, highlighting strong commuter patterns. LIRR and Metro-North show significantly lower weekend usage, reinforcing their role as weekday commuter rails. The visualization helps identify clear trends that can guide resource allocation and service planning, such as reducing frequency on lower-ridership days like weekends.
+
+![image](https://github.com/user-attachments/assets/bbe017de-daa5-4473-b308-a9596d40d29d)
+
 
