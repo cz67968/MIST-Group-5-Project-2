@@ -32,11 +32,11 @@ This line chart tracks ridership recovery across seven MTA transportation modes 
    
 Ridership directly impacts fare revenue, which helps fund operations, maintain service quality, and support transit jobs. A slow recovery can strain the MTA’s budget, leading to reduced services, higher fares, or funding shortfalls.
 
-3. Social
+2. Social
    
 Public transit is essential for many low-income, elderly, and non-driving New Yorkers. Uneven recovery across modes can limit access to work, healthcare, and daily needs, raising concerns about equity and transit reliability.
 
-5. Policy
+3. Policy
    
 Understanding which modes are recovering slowly helps policymakers prioritize resources, improve accessibility, and plan long-term transit strategies that address infrastructure needs and rider support.
 
