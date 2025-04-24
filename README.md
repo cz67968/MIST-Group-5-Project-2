@@ -23,10 +23,17 @@ This heat map visualizes average MTA ridership by day of the week across all tra
 
 ![image](https://github.com/user-attachments/assets/bbe017de-daa5-4473-b308-a9596d40d29d)
 
-# Analysis #2
+# Analysis #2:
 This line chart tracks ridership recovery across seven MTA transportation modes from 2020 to 2025, measuring progress relative to pre-pandemic levels. Access-A-Ride and the Staten Island Railway had the slowest recovery, remaining below 80% by 2025. In contrast, Bridges and Tunnels recovered fastest, surpassing 100% as early as 2022. LIRR and Metro-North also rebounded strongly, while subways and buses showed steady but incomplete recovery, reaching approximately 85% and 54% respectively. The visualization highlights significant variation in recovery, reflecting differences in usage patterns, commuter behavior, and service reliance.
 
 ![image](https://github.com/user-attachments/assets/580a331e-36e2-4fce-b565-f712f36286d0)
+# Looking Deeper
+1. Economic
+Ridership directly impacts fare revenue, which helps fund operations, maintain service quality, and support transit jobs. A slow recovery can strain the MTA’s budget, leading to reduced services, higher fares, or funding shortfalls.
+2. Social
+Public transit is essential for many low-income, elderly, and non-driving New Yorkers. Uneven recovery across modes can limit access to work, healthcare, and daily needs, raising concerns about equity and transit reliability.
+3. Policy
+Understanding which modes are recovering slowly helps policymakers prioritize resources, improve accessibility, and plan long-term transit strategies that address infrastructure needs and rider support.
 
 
 
