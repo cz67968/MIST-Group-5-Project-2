@@ -1,10 +1,10 @@
 # MIST-Group-5-Project-2
 # Team Members: 
 1. Zhen, Christina - 811674601 - https://github.com/cz67968/MIST-Group-5-Project-2/blob/main/README.md
-2. Arfath, Rushil - 811460339
+2. Arfath, Rushil - 811460339 - https://github.com/R1Arafath/Group-5-project-2
 3.  Fontoura, Gabriel - 811794390
 4.  Snow, Luke - 811958066
-5.  Khan, Azaan - 811686335
+5.  Khan, Azaan - 811686335 - https://github.com/Azaank09/MIST-Group-5-Project-2/blob/main/README.md
 
 # Project Description: 
 This project uses public transit data from New York City to explore MTA ridership recovery trends from 2020 to 2025. By visualizing changes in ridership across subway, bus, commuter rail, and paratransit services, we assess how different transportation modes have rebounded from the COVID-19 pandemic. The analysis highlights significant gaps in recovery, particularly among services relied on by vulnerable populations. It offers insights into the economic, social, and policy implications of transit usage in a post-pandemic world.
